@@ -59,7 +59,7 @@ Create a menu for your game, emphasis on the game. You should scroll on the LCD 
 
 <details>
 <summary> Components </summary>
-- LCD
+  LCD
 - 8x8 matrix
 - resistors
 - electrolytic capacitor
