@@ -23,31 +23,31 @@ Create a menu for your game, emphasis on the game. You should scroll on the LCD 
 1. When powering up a game, a greeting message should be shown fora few moments.
 
 2. Categories like:
-  - **Start Game** that start the initial level of the game
-  - **Highscore**: 
-    - Initially the score is 0
-    - Highscore is updating when the game is done
-    - Save the top 5+ values in EEPROM with the name and score
-  - **Settings**:
-    - Enter name
-    - Starting level or difficulty of the game should be selected
-    - LCD contrast control using either potentiometer of saving the value in EEPROM
-    - LCD brightness control and save the value to EEPROM
-    - Matrix brightness control and save it to EEPROM
-    - Sound on or off and save it to EEPROM
-    - Extra stuff that should be saved to EEPROM
-  - **About**, here are the details about the creator of the game like game name, author name, github link or user
-  - **How to play**, a short description about the game
+   - **Start Game** that start the initial level of the game
+   - **Highscore**: 
+       - Initially the score is 0
+       - Highscore is updating when the game is done
+       - Save the top 5+ values in EEPROM with the name and score
+   - **Settings**:
+     - Enter name
+     - Starting level or difficulty of the game should be selected
+     - LCD contrast control using either potentiometer of saving the value in EEPROM
+     - LCD brightness control and save the value to EEPROM
+     - Matrix brightness control and save it to EEPROM
+     - Sound on or off and save it to EEPROM
+     - Extra stuff that should be saved to EEPROM
+   - **About**, here are the details about the creator of the game like game name, author name, github link or user
+   - **How to play**, a short description about the game
   
 3. **While playing the game** display information like:
-  - Lives
-  - Level/Difficulty
-  - Score
-  - Etc.
+   - Lives
+   - Level/Difficulty
+   - Score
+   - Etc.
     
 4. **Upon game ending**:
-  - Screen 1: a message such as "Congratulations on reaching level/score X". "You did better than y people.". etc. Switches to screen 2 upon interaction (button press) or after a few moments.
-  - Screen 2: display relevant game info: score, time, lives left etc. Must inform player if he/she beat the highscore. This menu should only be closed by the player, pressing a button.
+   - Screen 1: a message such as "Congratulations on reaching level/score X". "You did better than y people.". etc. Switches to screen 2 upon interaction (button press) or after a few moments.
+   - Screen 2: display relevant game info: score, time, lives left etc. Must inform player if he/she beat the highscore. This menu should only be closed by the player, pressing a button.
   
   ##### GAME
 - You must add basic sounds to the game
