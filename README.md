@@ -40,10 +40,10 @@ Create a menu for your game, emphasis on the game. You should scroll on the LCD 
   - **How to play**, a short description about the game
   
 3. **While playing the game** display information like:
-    - Lives
-    - Level/Difficulty
-    - Score
-    - Etc.
+  - Lives
+  - Level/Difficulty
+  - Score
+  - Etc.
     
 4. **Upon game ending**:
   - Screen 1: a message such as "Congratulations on reaching level/score X". "You did better than y people.". etc. Switches to screen 2 upon interaction (button press) or after a few moments.
@@ -59,16 +59,16 @@ Create a menu for your game, emphasis on the game. You should scroll on the LCD 
 
 <details>
 <summary> Components </summary>
-1. LCD
-2. 8x8 matrix
-3. resistors
-4. electrolytic capacitor
-5. ceramic capacitor
-6. MAX7219 Driver
-7. joystick
-8. buzzer
-9. potentiometer
-10. wires
+- LCD
+- 8x8 matrix
+- resistors
+- electrolytic capacitor
+- ceramic capacitor
+- MAX7219 Driver
+- joystick
+- buzzer
+- potentiometer
+- wires
 </details>
 
 
