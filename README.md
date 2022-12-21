@@ -59,16 +59,17 @@ Create a menu for your game, emphasis on the game. You should scroll on the LCD 
 
 <details>
 <summary> Components </summary>
-  - LCD
-  - 8x8 matrix
-  - resistors
-  - electrolytic capacitor
-  - ceramic capacitor
-  - MAX7219 Driver
-  - joystick
-  - buzzer
-  - potentiometer
-  - wires
+The following list shows the needed components
+- LCD
+- 8x8 matrix
+- resistors
+- electrolytic capacitor
+- ceramic capacitor
+- MAX7219 Driver
+- joystick
+- buzzer
+- potentiometer
+- wires
 </details>
 
 
