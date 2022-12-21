@@ -74,7 +74,7 @@ Create a menu for your game, emphasis on the game. You should scroll on the LCD 
 
 <details>
 <summary> Setup </summary>
-![MatrixSetup](https://user-images.githubusercontent.com/98409275/208791524-2b3ee7ff-32c0-44d5-b792-45a1ee3c3389.jpeg)
+![MatrixSetup](https://user-images.githubusercontent.com/98409275/208791761-e088740f-e848-4961-afdf-a8b6bc499b62.jpeg)
 </details>
 
 
