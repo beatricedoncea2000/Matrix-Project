@@ -74,11 +74,11 @@ Create a menu for your game, emphasis on the game. You should scroll on the LCD 
 
 <details>
 <summary> Setup </summary>
-![MatrixSetup](https://user-images.githubusercontent.com/98409275/208791761-e088740f-e848-4961-afdf-a8b6bc499b62.jpeg)
+![MatrixSetup](https://user-images.githubusercontent.com/98409275/208792007-294e2414-bd92-4a30-99b4-6fa7739c492a.jpeg)
 </details>
 
 
 <details>
 <summary> Demo </summary>
-Demo is here 
+Demo is here https://youtu.be/ISVfKO8zJgA
 </details>
